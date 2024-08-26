@@ -31,7 +31,7 @@ function Footer() {
             <h2 className="text-sm font-semibold uppercase">Follow us</h2>
             <a
               className="hover:underline "
-              href="https://github.com/s4shibam"
+              href="https://github.com/sonalagg1109"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -39,7 +39,7 @@ function Footer() {
             </a>
             <a
               className="hover:underline"
-              href="https://www.linkedin.com/in/s4shibam"
+              href="https://www.linkedin.com/in/sonalagrawal11"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -61,7 +61,7 @@ function Footer() {
       <div className="flex flex-col justify-center text-sm md:mr-10 md:flex-row md:items-center md:justify-between">
         <div className="text-center md:text-left">
           <span className="mb-1 block ">
-            Developed with 💚 by &nbsp;
+            Developed by &nbsp;
             <a
               className="cursor-pointer hover:underline"
               href="https://www.s4shibam.com"
@@ -69,7 +69,7 @@ function Footer() {
               target="_blank"
               onClick={() => gaEventTracker({ label: 'Shibam Saha' })}
             >
-              Shibam Saha.
+              Sonal Agrawal.
             </a>
           </span>
           <span>
@@ -82,7 +82,7 @@ function Footer() {
         </div>
         <div className="mx-auto mt-4 flex w-fit space-x-6 sm:justify-center md:mx-0 md:mt-0">
           <a
-            href="https://www.facebook.com/s4shibam"
+            href="https://www.linkedin.com/in/sonalagrawal11"
             rel="noopener noreferrer"
             target="_blank"
             onClick={() => gaEventTracker({ label: 'Facebook' })}
@@ -97,7 +97,7 @@ function Footer() {
             <span className="sr-only">Facebook</span>
           </a>
           <a
-            href="https://www.instagram.com/s4shibam"
+            href="https://www.linkedin.com/in/sonalagrawal11"
             rel="noopener noreferrer"
             target="_blank"
             onClick={() => gaEventTracker({ label: 'Instagram' })}
@@ -112,7 +112,7 @@ function Footer() {
             <span className="sr-only">Instagram</span>
           </a>
           <a
-            href="https://twitter.com/s4shibam"
+            href="https://www.linkedin.com/in/sonalagrawal11"
             rel="noopener noreferrer"
             target="_blank"
             onClick={() => gaEventTracker({ label: 'Twitter' })}
@@ -123,7 +123,7 @@ function Footer() {
             <span className="sr-only">Twitter</span>
           </a>
           <a
-            href="https://github.com/s4shibam"
+            href="https://github.com/sonalagg1109"
             rel="noopener noreferrer"
             target="_blank"
             onClick={() => gaEventTracker({ label: 'Github' })}
