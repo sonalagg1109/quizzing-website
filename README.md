@@ -12,11 +12,11 @@
 
 <br />
 
-## ⚡ Introduction
+## Introduction
 
 Cuizzy is a platform for online computer science or coding quizzes, as well as learning new topics by watching video content on the platform.
 
-## ✨ Features
+## Features
   
 - User experience-centric, modern and responsive interface
 - `Dark` and `Light` theme support
@@ -29,14 +29,14 @@ Cuizzy is a platform for online computer science or coding quizzes, as well as l
 - Quiz submission history
 - Video tutorials to learn computer science topics
 
-## ⚙️ Tech Stack
+##  Tech Stack
   
 - React JS
 - Tailwind CSS
 - Vite JS
 - Firebase
 
-## 📦 Other Libraries and Tools
+##  Other Libraries and Tools
   
 - FileSaver JS
 - Lodash
@@ -45,7 +45,7 @@ Cuizzy is a platform for online computer science or coding quizzes, as well as l
 - React Router DOM
 - React Toastify
 
-## 🎯 Goals
+##  Goals
 
 - [x] Master `React JS` and develop a project showcasing proficiency
 - [x] Implement public and private routing effectively in a React application
@@ -53,7 +53,7 @@ Cuizzy is a platform for online computer science or coding quizzes, as well as l
 - [x] Acquire proficiency in NoSQL database principles and query techniques
 - [x] Seamlessly integrate a `BAAS` into a React application for streamlined backend operations
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ![Landing](./.readme/screenshot_1.png)
 ![Quizzes](./.readme/screenshot_2.png)
@@ -63,7 +63,7 @@ Cuizzy is a platform for online computer science or coding quizzes, as well as l
 ![Submissions](./.readme/screenshot_6.png)
 ![User Profile](./.readme/screenshot_7.png)
 
-## 👋🏻 Contact
+## Contact
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sonalagrawal11)
 
