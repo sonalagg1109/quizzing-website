@@ -53,15 +53,6 @@ Cuizzy is a platform for online computer science or coding quizzes, as well as l
 - [x] Acquire proficiency in NoSQL database principles and query techniques
 - [x] Seamlessly integrate a `BAAS` into a React application for streamlined backend operations
 
-##  Screenshots
-
-![Landing](./.readme/screenshot_1.png)
-![Quizzes](./.readme/screenshot_2.png)
-![Attempt Quiz](./.readme/screenshot_3.png)
-![Result](./.readme/screenshot_4.png)
-![Answers](./.readme/screenshot_5.png)
-![Submissions](./.readme/screenshot_6.png)
-![User Profile](./.readme/screenshot_7.png)
 
 ## Contact
 
