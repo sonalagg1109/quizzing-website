@@ -70,5 +70,5 @@ Cuizzy is a platform for online computer science or coding quizzes, as well as l
 
 ## 👋🏻 Contact
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4shibam)
-[![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=s4shibam)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sonalagrawal11)
+
