@@ -9,11 +9,6 @@
     <p>Challenge your limits</p>
 </div>
 
-<p align="center">
-    <img src="https://img.shields.io/github/languages/code-size/s4shibam/cuizzy?style=flat-square" alt="Code Size">
-    <img src="https://img.shields.io/github/license/s4shibam/cuizzy?style=flat-square" alt="License">
-    <img src="https://img.shields.io/github/stars/s4shibam/cuizzy?style=flat-square&logo=github" alt="Stars">
-</p>
 
 <br />
 
