@@ -1,0 +1,28 @@
+/* ELearning.css */
+.elearning-container {
+    padding: 1rem;
+    color: #fff; /* adjust text color if you have a dark background */
+    background-color: #1e1e1e; /* optional dark background */
+    min-height: 100vh;         /* fill the screen vertically */
+  }
+  
+  .elearning-container h1 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .videos-section {
+    margin-top: 2rem;
+  }
+  
+  .video-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .video-wrapper {
+    max-width: 560px; /* width of the iframe */
+    background-color: #000; /* optional to highlight video area */
+  }
+  

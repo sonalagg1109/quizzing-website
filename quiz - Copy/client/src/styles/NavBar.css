@@ -1,0 +1,70 @@
+/* NavBar.css */
+
+/* Overall navbar styling */
+.navbar {
+    background-color: #181818;  /* Dark background */
+    color: #fff;               /* White text */
+    display: flex;
+    align-items: center;       /* Vertically center items */
+    justify-content: space-between;
+    height: 60px;              /* Navbar height (adjust as needed) */
+    padding: 0 2rem;           /* Horizontal spacing */
+  }
+  
+  /* BRAND on the left */
+  .navbar-left .brand {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #fff;
+    text-decoration: none; /* remove underline */
+    transition: color 0.2s ease;
+  }
+  
+  .navbar-left .brand:hover {
+    color: #ddd;
+  }
+  
+  /* CENTER links as a horizontal list */
+  .navbar-center {
+    list-style: none;
+    display: flex;
+    gap: 0rem; /* spacing between nav items */
+    margin: 4.5rem 0 0 0 ;
+    padding: 3rem 6rem;
+  }
+  
+  /* Center the nav items in the middle portion */
+  .navbar-center {
+    flex: 1;                /* make the center expand */
+    justify-content: center;/* horizontally center the links */
+  }
+  
+  /* Each link */
+  .navbar-center li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.2s ease;
+  }
+  
+  .navbar-center li a:hover {
+    color: #ddd;
+  }
+  
+  
+  
+  .logout-btn {
+    background-color: #00ff88;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    color: #333;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .logout-btn:hover {
+    background-color: #00cc6c;
+  }
+  
